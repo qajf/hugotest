@@ -1,4 +1,4 @@
 baseURL = "https://qajf.github.io/hugotest"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "ja"
+title = "QAJF Blog"
 theme = "ananke"
